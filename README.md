@@ -1,4 +1,7 @@
+<h1 align="center">Hi 👋, I'm Sachin Nimbal</h1>
+<h3 align="center">I am a passionate Full Stack Web Developer</h3>
 
+- 🌱 I’m currently learning **Hibernate, Spring**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sachin.kumar.nimbal9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachin.kumar.nimbal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-nimbal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sachinnimbal) 
