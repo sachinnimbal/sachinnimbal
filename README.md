@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Nimbal</h1>
 <h3 align="center">I am a passionate Full Stack Web Developer</h3>
-![Black Technology LinkedIn Banner (1)](https://github.com/sachinnimbal/sachinnimbal/assets/87244512/71fab823-350d-4c5c-a548-019e94e2b81b)
 
 - 🌱 I’m currently learning **Hibernate, Spring**
 
