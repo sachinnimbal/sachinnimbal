@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sachin Nimbal
-<h3 align="center">I am a passionate Full Stack Web Developer</h3>
+## I am a passionate Full Stack Web Developer
 
 - 🌱 I’m currently learning **Hibernate, Spring**
 
