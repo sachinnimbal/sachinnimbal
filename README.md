@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Nimbal</h1>
+# Hi 👋, I'm Sachin Nimbal
 <h3 align="center">I am a passionate Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **Hibernate, Spring**
