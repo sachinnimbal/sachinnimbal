@@ -1,8 +1,6 @@
 # Hi 👋, I'm Sachin Nimbal
 ## I am a passionate Full Stack Web Developer
 
-- 🌱 I’m currently learning **Hibernate, Spring**
-
 ![LinkedIn Banner](/LinkedInBanner.jpg "LinkedIn Banner")
 
 > ## 🌐 Socials:
